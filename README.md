@@ -5,7 +5,7 @@
 
 
 ### 사용 언어 및 IDE
-+ java 8 , JSP , HTML5 , CSS , Eclipse , JavaScript
++ java 8 , JSP , HTML5 , CSS , Eclipse , JavaScript , jQuery
 
 ### Framework
 + Spring, myBatis
